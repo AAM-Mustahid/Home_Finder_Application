@@ -11,6 +11,7 @@ class GetStarted extends StatefulWidget {
   }
 }
 
+// added first page
 class _QuizState extends State<GetStarted> {
   var activeScreen = 'start-screen';
 
