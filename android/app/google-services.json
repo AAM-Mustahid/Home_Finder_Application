@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "234163467352",
+    "project_id": "homefinder-bd",
+    "storage_bucket": "homefinder-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234163467352:android:012e1d961d60a246e0862d",
+        "android_client_info": {
+          "package_name": "com.example.home_finder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234163467352-laedqnbk1vgrum30agd5ea5gqflvj2ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHsQBFpEo9dXUhR6u-eWN55GqWueKjno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234163467352-laedqnbk1vgrum30agd5ea5gqflvj2ke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234163467352-bioas3gdl343mf78u69sjrltopeibhig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeFinderApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234163467352:android:98b0316b472b80fce0862d",
+        "android_client_info": {
+          "package_name": "flutter.homefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234163467352-c21lm0b556m6rb9198cbuerlm54nv15e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flutter.homefinder",
+            "certificate_hash": "05b985bc84a079cd403396111946732d8309725c"
+          }
+        },
+        {
+          "client_id": "234163467352-laedqnbk1vgrum30agd5ea5gqflvj2ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHsQBFpEo9dXUhR6u-eWN55GqWueKjno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234163467352-laedqnbk1vgrum30agd5ea5gqflvj2ke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234163467352-bioas3gdl343mf78u69sjrltopeibhig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeFinderApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
